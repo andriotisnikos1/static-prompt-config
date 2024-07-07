@@ -1,0 +1,16 @@
+{
+  "name": "static-prompt-config",
+  "version": "1.0.0",
+  "author": "",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module"
+}
